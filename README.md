@@ -1,4 +1,5 @@
-# demo
+# String Transform App
+<h4>A basic app developed using Vue.js which transforms the string input to uppercase.</h4>
 
 ## Project setup
 ```
